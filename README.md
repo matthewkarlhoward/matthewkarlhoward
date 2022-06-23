@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matthewkarlhoward
-- 👀 I’m interested in learning at the interface of biology and computer science
-- 🌱 I’m currently learning how to process structural biology data
-- 💞️ I’m looking to collaborate on ... anything
+- 👀 I’m interested in GPCRs and high-throughput techniques in biology
+- 🌱 I’m currently learning: __________
 - 📫 How to reach me @matthewkhoward on twitter 
 
 <!---
