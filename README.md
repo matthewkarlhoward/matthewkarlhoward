@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkarlhoward
-- 👀 I’m interested in GPCRs and high-throughput techniques in biology
-- 🌱 I’m currently learning: __________
+- 👀 I’m interested in GPCRs and functional genomics
+- 🌱 I’m currently learning: R
 - 📫 How to reach me @matthewkhoward on twitter 
 
 <!---
