@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkarlhoward
 - 👀 I’m interested in GPCRs and functional genomics
-- 🌱 I’m currently learning: R
+- 🌱 I’m currently learning: 
 - 📫 How to reach me @matthewkhoward on twitter 
 
 <!---
